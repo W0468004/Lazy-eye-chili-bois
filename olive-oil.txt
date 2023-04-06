@@ -1,0 +1,10 @@
+#W0343012 - Edwin Kaye
+#student 2
+#powershell scripting
+
+$inta = read-host "int a: "
+$intb = read-host "int b: "
+# get the users value
+
+write-host "average = " ($inta + $intb) / 2
+# gets the total
